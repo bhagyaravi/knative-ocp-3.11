@@ -1,0 +1,23 @@
+apiVersion: serving.knative.dev/v1alpha1
+kind: Service
+metadata:
+  name: stock
+  namespace: knative-stock
+spec:
+  template:
+    metadata:
+      name: stock-v2
+    spec:
+      containers:
+        - image: gandhicloud/knative-stock:v2
+          imagePullPolicy: Always
+  traffic:
+  - tag: current
+    revisionName: stock-v1
+    percent: 30
+  - tag: candidate
+    revisionName: stock-v2
+    percent: 70
+  - tag: latest
+    latestRevision: true
+    percent: 0
