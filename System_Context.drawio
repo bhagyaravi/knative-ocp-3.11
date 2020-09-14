@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T07:53:15.938Z" agent="5.0 (Macintosh)" etag="AOLd7P3gjakahWG_fk7h" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T08:07:06.226Z" agent="5.0 (Macintosh)" etag="16KKaPL_5c1ICeX0JYSf" version="13.6.10" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zQq-HTP1ryByy5TgjPA--1" value="People Corner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--1" value="People Corner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="344" y="210" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--2" value="W3 SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="zQq-HTP1ryByy5TgjPA--2" value="W3 SSO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="100" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--4" value="Learnings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--4" value="Learnings" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="100" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;" edge="1" parent="1" source="zQq-HTP1ryByy5TgjPA--1" target="zQq-HTP1ryByy5TgjPA--2">
@@ -19,25 +19,25 @@
             <mxPoint x="430" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--7" value="ACE Comments for Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--7" value="ACE Comments for Employee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--8" value="Workday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--8" value="Workday" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="570" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--9" value="Nikko-Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--9" value="Nikko-Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="657" y="221" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--10" value="Slack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--10" value="Slack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--11" value="IBM Id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--11" value="IBM Id" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--13" value="IBMer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--13" value="IBMer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="462" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--14" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--14" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zQq-HTP1ryByy5TgjPA--14" target="zQq-HTP1ryByy5TgjPA--1">
@@ -98,7 +98,7 @@
           <mxGeometry x="180" y="260" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--25" value="Authenticate User" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="230" y="168" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="158" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--26" value="Authenticate User" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="100" height="40" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="zQq-HTP1ryByy5TgjPA--29" value="Record the mood" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="529" y="240" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--30" value="Nikko-Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--30" value="Nikko-Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="685" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zQq-HTP1ryByy5TgjPA--1" target="zQq-HTP1ryByy5TgjPA--30">
@@ -128,7 +128,19 @@
           <mxGeometry x="340" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--43" value="Get the special days of the employees" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="550" y="380" width="100" height="40" as="geometry" />
+          <mxGeometry x="561" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--45" value="IBMer PMO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;" edge="1" parent="1" source="zQq-HTP1ryByy5TgjPA--45" target="zQq-HTP1ryByy5TgjPA--1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--47" value="Enter On-boarding activity for the team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
