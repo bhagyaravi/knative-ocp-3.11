@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2020-09-14T05:23:26.165Z" agent="5.0 (Macintosh)" etag="h4z9Wq8LLHd_6EaI0Rjp" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-14T05:31:24.093Z" agent="5.0 (Macintosh)" etag="uiOYUikhDYQHZFxff1Kr" version="13.6.10" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="786" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zQq-HTP1ryByy5TgjPA--1" value="People Corner" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--2" value="W3 SSO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--4" value="Learnings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zQq-HTP1ryByy5TgjPA--1" target="zQq-HTP1ryByy5TgjPA--2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--7" value="ACE Comments for Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--8" value="Workday" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--9" value="Nikko-Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--10" value="Slack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--11" value="IBM Id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--13" value="IBMer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQq-HTP1ryByy5TgjPA--14" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
