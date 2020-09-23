@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T11:03:06.990Z" agent="5.0 (Macintosh)" etag="hITAF3PchDWX0JnnTBFA" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T11:05:44.786Z" agent="5.0 (Macintosh)" etag="cCb6ALGsdZReRuQzi7Ij" version="13.7.3" type="github">
   <diagram id="uCm0NeoaoiW52E6zrNIX" name="Page-1">
     <mxGraphModel dx="786" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,11 +161,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cFlkBL_1ttf7k6hPrmO4-53" value="Workday" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#007FFF;fillColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="895" y="150" width="90" height="60" as="geometry" />
+          <mxGeometry x="895" y="157" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFlkBL_1ttf7k6hPrmO4-54" value="" style="endArrow=classic;startArrow=none;html=1;strokeColor=#3399FF;fontSize=10;exitX=1.023;exitY=0.65;exitDx=0;exitDy=0;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="cFlkBL_1ttf7k6hPrmO4-30" target="cFlkBL_1ttf7k6hPrmO4-53">
+        <mxCell id="cFlkBL_1ttf7k6hPrmO4-54" value="" style="endArrow=classic;startArrow=none;html=1;strokeColor=#3399FF;fontSize=10;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cFlkBL_1ttf7k6hPrmO4-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="331.93" as="sourcePoint" />
+            <mxPoint x="572" y="187" as="sourcePoint" />
             <mxPoint x="895" y="338.07864864864865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -182,6 +182,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="180" as="sourcePoint" />
             <mxPoint x="674.5999999999999" y="163.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFlkBL_1ttf7k6hPrmO4-61" value="Bluepoints" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#007FFF;fillColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="895" y="90" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cFlkBL_1ttf7k6hPrmO4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#3399FF;startArrow=classic;startFill=1;" edge="1" parent="1" target="cFlkBL_1ttf7k6hPrmO4-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+            <mxPoint x="674.5999999999999" y="134.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="180" />
+              <mxPoint x="790" y="135" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
