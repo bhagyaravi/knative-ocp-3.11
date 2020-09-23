@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T12:14:44.057Z" agent="5.0 (Macintosh)" etag="GAIjgre1I6Kl9V-MkkA7" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T12:15:45.536Z" agent="5.0 (Macintosh)" etag="6SK8LHDd1owHCHPEkBBV" version="13.7.3" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="786" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="zQq-HTP1ryByy5TgjPA--43" value="Get the special days of the employees" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="561" y="380" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--45" value="IBMer PMO" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--45" value="IBM Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQq-HTP1ryByy5TgjPA--46" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontFamily=Times New Roman;fontSize=15;" parent="1" source="zQq-HTP1ryByy5TgjPA--45" target="zQq-HTP1ryByy5TgjPA--1" edge="1">
@@ -139,7 +139,7 @@
             <mxPoint x="440" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQq-HTP1ryByy5TgjPA--47" value="Enter On-boarding activity for the team" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="zQq-HTP1ryByy5TgjPA--47" value="Enter the awards won by team members" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="170" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
