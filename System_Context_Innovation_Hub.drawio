@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T11:52:17.555Z" agent="5.0 (Macintosh)" etag="26F1g38iJGxp2Ifxl-z7" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T11:53:26.220Z" agent="5.0 (Macintosh)" etag="sxwfBuFCO8weSUaEfDyw" version="13.7.5" type="github">
   <diagram id="Iwl_UHsNRRA5oYcL_RLJ" name="Page-1">
     <mxGraphModel dx="786" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,18 @@
         </mxCell>
         <mxCell id="IRAnfNPuhCU8a6vhodCF-22" value="Create an info share " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAnfNPuhCU8a6vhodCF-23" value="WordPress" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="395" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRAnfNPuhCU8a6vhodCF-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IRAnfNPuhCU8a6vhodCF-2" target="IRAnfNPuhCU8a6vhodCF-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IRAnfNPuhCU8a6vhodCF-25" value="Submit a comment on a blog" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
