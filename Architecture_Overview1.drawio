@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T10:00:06.744Z" agent="5.0 (Macintosh)" etag="fZAgIyt5lFrlT-BcZ7_R" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T13:19:37.535Z" agent="5.0 (Macintosh)" etag="wgXpz-rVlOJq3S8lpLy2" version="13.7.9" type="github">
   <diagram id="uCm0NeoaoiW52E6zrNIX" name="Page-1">
     <mxGraphModel dx="786" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -200,6 +200,9 @@
               <mxPoint x="790" y="135" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_q_KB8CL2gvm--6Zug_G-1" value="Nikko Nikko Calendar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#007FFF;fillColor=#FFFFFF;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="895" y="381" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
