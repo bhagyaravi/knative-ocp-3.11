@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T07:27:15.389Z" agent="5.0 (Macintosh)" etag="97hf8EuqK_3C_ZFTWAJD" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T08:28:43.917Z" agent="5.0 (Macintosh)" etag="mQIOyE0aH7jnVVu-n3ag" version="14.1.1" type="github">
   <diagram id="iC_NfAitNRgo2J09mCaq" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="10z1liR8voffSjqADAh4-8" value="Add the members of the top team as members of the subteam" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1010" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="10z1liR8voffSjqADAh4-9" value="They get the IBMManager or IBMTeam member role based on what is defined in the parent team " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="860" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="10z1liR8voffSjqADAh4-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,10 +61,10 @@
             <mxPoint x="422" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10z1liR8voffSjqADAh4-18" value="" style="endArrow=classic;html=1;exitX=0.592;exitY=0;exitDx=0;exitDy=0;entryX=0.592;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-8" target="10z1liR8voffSjqADAh4-9">
+        <mxCell id="10z1liR8voffSjqADAh4-18" value="" style="endArrow=classic;html=1;exitX=0.592;exitY=0;exitDx=0;exitDy=0;entryX=0.592;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="482.5" y="1050" as="sourcePoint" />
-            <mxPoint x="640" y="1050" as="targetPoint" />
+            <mxPoint x="701.04" y="961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="10z1liR8voffSjqADAh4-19" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -108,6 +105,48 @@
             <mxPoint x="320" y="260" as="sourcePoint" />
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-31" value="Sub Team 1 " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-32" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="10z1liR8voffSjqADAh4-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194.5" y="600" as="sourcePoint" />
+            <mxPoint x="194.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-33" value="Sub Team 2 " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-34" value="Sub Team 3 " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="265" y="805" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-35" value="Tower 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-37" value="Account Team" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-38" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-35" target="10z1liR8voffSjqADAh4-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="204.5" y="610" as="sourcePoint" />
+            <mxPoint x="205" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-39" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-35" target="10z1liR8voffSjqADAh4-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="750" as="sourcePoint" />
+            <mxPoint x="80" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-40" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="10z1liR8voffSjqADAh4-35" target="10z1liR8voffSjqADAh4-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="750" as="sourcePoint" />
+            <mxPoint x="201.81818181818176" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10z1liR8voffSjqADAh4-41" value="Define the roles " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="860" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
