@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T06:39:03.475Z" agent="5.0 (Macintosh)" etag="OvvGKvz0vYPGITQkt5xi" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T06:42:55.521Z" agent="5.0 (Macintosh)" etag="xeZt_NFCh1F-niyI9rkd" version="14.4.3" type="github">
   <diagram id="MwYBpejKwqcsYLeK8_-7" name="Page-1">
     <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="CuhL1gv8DuRKBKNDMKdK-11" value="&lt;div&gt;Authenticate the user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-12" value="&lt;div&gt;People Corner APIs&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-13" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CuhL1gv8DuRKBKNDMKdK-1" target="CuhL1gv8DuRKBKNDMKdK-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="640" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-14" value="Integration with employee sevice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
