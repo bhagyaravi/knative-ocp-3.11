@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T07:01:59.972Z" agent="5.0 (Macintosh)" etag="ZQHOYbqECH4ROwbQE4Wm" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T07:03:39.883Z" agent="5.0 (Macintosh)" etag="HXwVaPLfWlxc_foUi8ME" version="14.4.3" type="github">
   <diagram id="MwYBpejKwqcsYLeK8_-7" name="Page-1">
     <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="CuhL1gv8DuRKBKNDMKdK-14" value="Integration with employee sevice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-16" value="Approver" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CuhL1gv8DuRKBKNDMKdK-16" target="CuhL1gv8DuRKBKNDMKdK-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CuhL1gv8DuRKBKNDMKdK-18" value="Approves an Idea" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="258" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
